@@ -1,5 +1,7 @@
 package prototype;
 
+// crow -> implementation of bird
+
 public class Crow extends Bird{
     private String sound;
 
